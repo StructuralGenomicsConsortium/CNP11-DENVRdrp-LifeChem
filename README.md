@@ -1,3 +1,5 @@
+**This project has been closed due to lack of target engagment. please read the wiki listed below to learn about a compound that could be a starting point for a new project if the target producing the DENV2 antiviral activity can be identified**
+
 # CNP11-DENVRdrp-LifeChem
 An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 11) devoted to the DENV Rdrp, focusing specifically on exploring the LifeChemicals library.
 
